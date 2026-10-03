@@ -1,6 +1,9 @@
 #include <stdio.h>
 #define MAX_SIZE 100
-
+/* Дектярев Михаил Павлович
+П.И. 1-1
+Поиск и преобразование одномерного массива
+*/
 int main(void) {
     int a[MAX_SIZE], n, x, y;
 
